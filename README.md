@@ -15,7 +15,7 @@ Oublis sur le circuit imprimé :
 
 REMARQUE : le circuit électrique de la moto a été légèrement modifié
 - le 12V alternatif (pour les feux) est maintenant sur le 12V issu du régulateur (l'éclairage est stable même au ralenti)
-- le 12 alternatif est utilisé pour le compte-tour mais il est redressé simple alternance (une diode) avant d'aller au tableau de bord
+- le 12 alternatif est utilisé pour le compte-tour mais il est redressé simple alternance (une diode) avant d'aller au tableau de bord. Ce signal n'est pas assez propre au ralenti pour être exploité mais il va très bien pour le reste du temps.
 - le capteur de niveau d'huile n'est plus utilisé, un flotteur (on/off) est installé sur le bocal (on peut sans doute s'inspirer de la gestion du niveau d'essence pour faire fonctionner le capteur d'origine)
 
 FONCTIONNEMENT DES CAPTEURS
